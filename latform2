@@ -1,0 +1,23 @@
+<html>
+<head>
+  <title>Form2</title>
+</head>
+<body>
+  <form>
+  <p>
+    <label for="programming">What is your programming Language?</label>
+    <input type="text" name="programming" list="programmingLangs" />
+      <datalist id="programmingLangs">
+
+        <select name="altprogammingLangs">
+          <option value="java">Java</option>
+          <option value="javascript">Javascript</option>
+          <option value="ruby">Ruby</option>
+          <option value="phyton">Phyton</option>
+        </select>
+        
+      </datalist>
+  </p>
+  </form>
+</body>
+</html>
