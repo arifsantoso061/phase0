@@ -1,0 +1,8 @@
+<form>
+  <label for="skill">Skill : <br></label>
+  <input id="writing" type="checkbox" name="skill" value="writing"/>
+  <label for="writing">Writing </label>
+  <input id="reading" type="checkbox" name="skill" value="reading"/>
+  <label for="reading">Reading</label>
+  <input type="submit" value="submit"/>  
+</form>
