@@ -1,0 +1,7 @@
+<form>
+  <label for="gender">Gender: <br></label>
+  <label>Male</label>
+  <input id="male-radio" type="radio" value="male"/>
+  <label>Female</label>
+  <input id="female-radio" type="radio" value="female"/>
+</form>
