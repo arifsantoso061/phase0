@@ -5,7 +5,9 @@
 </head>
 <body>
 <div id="site-container">
-  <div id="header"></div><!-- End header -->
+  <div id="header">
+  <h1><a href="#">My Personal Blog</a></h1>
+  </div><!-- End header -->
     <div id="menu-content">
         <div id="menu"></div><!-- End menu -->
         <div id="content"></div><!-- End Content -->
