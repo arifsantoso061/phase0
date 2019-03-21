@@ -1,0 +1,17 @@
+<html>
+<head>
+  <title>Website Pertama saya</title>
+<link rel="stylesheet" type="text/css" href="style/style.css"/>
+</head>
+<body>
+<div id="site-container">
+  <div id="header"></div><!-- End header -->
+    <div id="menu-content">
+        <div id="menu"></div><!-- End menu -->
+        <div id="content"></div><!-- End Content -->
+    </div><!-- End menu-content -->
+    <br class="floating" />
+  <div id="footer"></div><!-- End Footer -->
+</div><!-- End site container -->
+</body>
+</html>
